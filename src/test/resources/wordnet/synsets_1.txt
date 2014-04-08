@@ -1,0 +1,4 @@
+0,event,something that happened 
+1,happening occurrence occurren natural_event,something else happened 
+2,change alteration modification,something happened that changed 
+3,miracle,something good happened 
